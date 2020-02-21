@@ -1,0 +1,8 @@
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\bin\Debug\SocketChatClient.exe
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\bin\Debug\SocketChatClient.pdb
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\obj\Debug\SocketChatClient.csproj.GenerateResource.Cache
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\obj\Debug\SocketChatClient.exe
+C:\Papa\Programacion\C#\SocketChatClient\SocketChatClient\obj\Debug\SocketChatClient.pdb
